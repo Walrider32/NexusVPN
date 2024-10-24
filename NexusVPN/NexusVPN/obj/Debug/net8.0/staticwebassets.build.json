@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XuLVLa8z8nsC5mlZLnUMbwKvc4uytOKWVkkeB0yDL5Y=",
+  "Source": "NexusVPN",
+  "BasePath": "_content/NexusVPN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

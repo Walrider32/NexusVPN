@@ -1,0 +1,6 @@
+@NexusVPN_HostAddress = http://localhost:5155
+
+GET {{NexusVPN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
