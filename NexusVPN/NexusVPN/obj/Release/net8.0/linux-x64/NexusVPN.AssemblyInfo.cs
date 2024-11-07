@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NexusVPN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f876ecba45af2e27bd9ad917aadce13b05df2054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NexusVPN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NexusVPN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

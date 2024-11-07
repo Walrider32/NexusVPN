@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sszab\\Desktop\\NexusVPN\\NexusVPN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|c:\\users\\sszab\\desktop\\nexusvpn\\nexusvpn\\nexusvpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|solutionrelative:nexusvpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|c:\\users\\sszab\\desktop\\nexusvpn\\nexusvpn\\nexusvpn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|solutionrelative:nexusvpn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|c:\\users\\sszab\\desktop\\nexusvpn\\nexusvpn\\nexusvpn\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|solutionrelative:nexusvpn\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|c:\\users\\sszab\\desktop\\nexusvpn\\nexusvpn\\nexusvpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|solutionrelative:nexusvpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7E5925B-D795-45D7-A801-9096EEC7394C}|NexusVPN\\NexusVPN.csproj|c:\\users\\sszab\\desktop\\nexusvpn\\nexusvpn\\nexusvpn\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\sszab\\Desktop\\NexusVPN\\NexusVPN\\NexusVPN\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "NexusVPN\\Controllers\\ClientsController.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sszab\\Desktop\\NexusVPN\\NexusVPN\\NexusVPN\\appsettings.json",
               "RelativeDocumentMoniker": "NexusVPN\\appsettings.json",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sszab\\Desktop\\NexusVPN\\NexusVPN\\NexusVPN\\Program.cs",
               "RelativeDocumentMoniker": "NexusVPN\\Program.cs",
               "ToolTip": "C:\\Users\\sszab\\Desktop\\NexusVPN\\NexusVPN\\NexusVPN\\Program.cs",
               "RelativeToolTip": "NexusVPN\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T19:12:21Z",
               "EditorCaption": ""

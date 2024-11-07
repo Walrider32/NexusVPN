@@ -429,7 +429,6 @@ C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\N
 C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\NexusVPN.csproj.CoreCompileInputs.cache
 C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\NexusVPN.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\NexusVPN.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\NexusVPN.sourcelink.json
 C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\staticwebassets.build.json
 C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\staticwebassets.development.json
 C:\Users\sszab\Desktop\NexusVPN\NexusVPN\NexusVPN\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.NexusVPN.Microsoft.AspNetCore.StaticWebAssets.props

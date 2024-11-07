@@ -11,6 +11,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
+          "Microsoft.NET.ILLink.Tasks": "8.0.10",
           "Swashbuckle.AspNetCore": "6.6.2",
           "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64": "8.0.10",
           "runtimepack.Microsoft.AspNetCore.App.Runtime.linux-x64": "8.0.10"
@@ -1809,6 +1810,7 @@
           }
         }
       },
+      "Microsoft.NET.ILLink.Tasks/8.0.10": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.OpenApi/1.6.14": {
@@ -2409,6 +2411,13 @@
       "sha512": "sha512-RN7lvp7s3Boucg1NaNAbqDbxtlLj5Qeb+4uSS1TeK5FSBVM40P4DKaTKChT43sHyKfh7V0zkrMph6DdHvyA4bg==",
       "path": "microsoft.identitymodel.tokens/6.35.0",
       "hashPath": "microsoft.identitymodel.tokens.6.35.0.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xT8jYjlroY7SLbGtoV9vUTVW/TPgodL4Egc31a444Xe0TMytLZ3UlKQ0kxMZsy/CrWsFB6wtKnSG1SsXcWreew==",
+      "path": "microsoft.net.illink.tasks/8.0.10",
+      "hashPath": "microsoft.net.illink.tasks.8.0.10.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
